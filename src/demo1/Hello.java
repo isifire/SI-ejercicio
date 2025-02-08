@@ -4,7 +4,7 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo!");
-		System.out.println("Isidro modifica esto");
+		System.out.println("MASTER modifica esto");
 
 	}
 
